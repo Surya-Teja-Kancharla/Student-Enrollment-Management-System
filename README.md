@@ -1,1 +1,1 @@
-# StudentEnrollmentSystem
+# Student Enrollment System
